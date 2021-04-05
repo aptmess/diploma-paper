@@ -1,0 +1,2368 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 11.2' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[    112061,       2360]
+NotebookOptionsPosition[    103741,       2193]
+NotebookOutlinePosition[    108383,       2294]
+CellTagsIndexPosition[    108340,       2291]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+
+Cell[CellGroupData[{
+Cell["\:0410\:043b\:0433\:043e\:0440\:0438\:0442\:043c\:044b \:0432\:043e\
+\:0441\:0441\:0442\:0430\:043d\:043e\:0432\:043b\:0435\:043d\:0438\:044f \
+\:043f\:0440\:043e\:0431\:0435\:043b\:043e\:0432 \:0432 \:0442\:0435\:043a\
+\:0441\:0442\:0435", "Chapter",
+ CellChangeTimes->{{3.758372292251624*^9, 3.7583722982301483`*^9}, {
+  3.7883456525244436`*^9, 3.788345656701308*^9}, {3.8011403235360756`*^9, 
+  3.801140331577273*^9}, {3.8029276336574802`*^9, 3.8029276370596666`*^9}, {
+  3.8032017680522957`*^9, 
+  3.8032017727886744`*^9}},ExpressionUUID->"548994e8-5e73-4c88-affa-\
+bfba870ebbb1"],
+
+Cell[TextData[{
+ "\:0417\:0430\:0434\:0430\:0447\:0430 \:0441\:0435\:0433\:043c\:0435\:043d\
+\:0442\:0430\:0446\:0438\:0438 \:0442\:0435\:043a\:0441\:0442\:0430 \:0432\
+\:043e\:0437\:043d\:0438\:043a\:0430\:0435\:0442 \:0432 \:0440\:0430\:0437\
+\:043b\:0438\:0447\:043d\:044b\:0445 \:043f\:0440\:0438\:043a\:043b\:0430\
+\:0434\:043d\:044b\:0445 \:0437\:0430\:0434\:0430\:0445, \:043d\:0430\:043f\
+\:0440\:0438\:043c\:0435\:0440, \:0432 \:0437\:0430\:0434\:0430\:0447\:0435 \
+\:0438\:0441\:043f\:0440\:0430\:0432\:043b\:0435\:043d\:0438\:044f \:043e\
+\:043f\:0435\:0447\:0430\:0442\:043e\:043a \:0432 \:0442\:0435\:043a\:0441\
+\:0442\:0435 \:043f\:043e\:043b\:044c\:0437\:043e\:0432\:0430\:0442\:0435\
+\:043b\:044f, \:043f\:0440\:0438 \:0430\:043d\:0430\:043b\:0438\:0437\:0435 ",
+ StyleBox["\:0445\:0435\:0448\:0442\:044d\:0433\:043e\:0432",
+  IgnoreSpellCheck->True],
+ " \:0432 \:0441\:043e\:0446\:0438\:0430\:043b\:044c\:043d\:044b\:0445 \:0441\
+\:0435\:0442\:044f\:0445 \:0438 \:0442.\:0434."
+}], "Text",
+ CellChangeTimes->{{3.802926169242403*^9, 3.8029262461793804`*^9}, {
+  3.8032016716741114`*^9, 
+  3.803201716141143*^9}},ExpressionUUID->"10bc5e39-5449-4406-a029-\
+45e33a38bacd"],
+
+Cell["\:0412 \:043a\:0430\:0447\:0435\:0441\:0442\:0432\:0435 \:043f\:0440\
+\:0438\:043c\:0435\:0440\:0430 \:0440\:0430\:0441\:0441\:043c\:043e\:0442\
+\:0440\:0438\:043c \:0441\:0442\:0440\:043e\:043a\:0443:", "Text",
+ CellChangeTimes->{{3.8029260585815816`*^9, 
+  3.80292606674189*^9}},ExpressionUUID->"6068c7fc-8c0c-49ec-943d-\
+b8c57aeffe0d"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Text", "[", 
+  RowBox[{"Style", "[", 
+   RowBox[{"\"\<tableapplecharitablecupboarding\>\"", ",", "20"}], "]"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{
+  3.80292521550718*^9, {3.8029275618898783`*^9, 3.8029275621316977`*^9}},
+ TextAlignment->Center,
+ CellLabel->
+  "In[448]:=",ExpressionUUID->"3135eb5f-bf3f-4d55-bca5-4542cd964281"],
+
+Cell[BoxData[
+ InterpretationBox[Cell[BoxData[
+   FormBox[
+    StyleBox["\<\"tableapplecharitablecupboarding\"\>",
+     StripOnInput->False,
+     FontSize->20], TextForm]], "InlineText",ExpressionUUID->
+   "abc0b2a1-544e-4398-9226-8634cbe7e660"],
+  Text[
+   Style["tableapplecharitablecupboarding", 20]]]], "Output",
+ CellChangeTimes->{3.8029252161783333`*^9, 3.802927562697501*^9},
+ TextAlignment->Center,
+ CellLabel->
+  "Out[448]=",ExpressionUUID->"c4117a3f-4532-4aeb-841c-e8f56a6b778a"]
+}, {2}]],
+
+Cell["\<\
+\:041c\:043e\:0436\:043d\:043e \:0437\:0430\:043c\:0435\:0442\:0438\:0442\
+\:044c, \:0447\:0442\:043e \:0440\:0430\:0441\:0441\:0442\:0430\:0432\:0438\
+\:0442\:044c \:043f\:0440\:043e\:0431\:0435\:043b\:044b \:0432 \:0434\:0430\
+\:043d\:043d\:043e\:043c \:0442\:0435\:043a\:0441\:0442\:0435 \:043c\:043e\
+\:0436\:043d\:043e \:0447\:0435\:0442\:044b\:0440\:044c\:043c\:044f \:0440\
+\:0430\:0437\:043b\:0438\:0447\:043d\:044b\:043c\:0438 \:0441\:043f\:043e\
+\:0441\:043e\:0431\:0430\:043c\:0438:\
+\>", "Text",
+ CellChangeTimes->{{3.8029260746974554`*^9, 3.802926150191289*^9}, {
+  3.8029263153364725`*^9, 3.802926324354267*^9}, {3.8032017255599484`*^9, 
+  3.803201728381402*^9}},ExpressionUUID->"5f6666f6-43a7-4514-bb18-\
+22f95bb11a0b"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{
+  RowBox[{"Module", "[", 
+   RowBox[{
+    RowBox[{"{", 
+     RowBox[{"string", ",", "positions"}], "}"}], ",", 
+    RowBox[{
+     RowBox[{"string", "=", "\"\<tableapplecharitablecupboarding\>\""}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{"positions", "=", 
+      RowBox[{"StringPosition", "[", 
+       RowBox[{"string", ",", 
+        RowBox[{"Alternatives", "@@", 
+         RowBox[{"DictionaryLookup", "[", "]"}]}], ",", 
+        RowBox[{"Overlaps", "\[Rule]", "All"}]}], "]"}]}], ";", 
+     "\[IndentingNewLine]", 
+     RowBox[{
+      RowBox[{
+       RowBox[{"Style", "[", 
+        RowBox[{
+         RowBox[{"StringTake", "[", 
+          RowBox[{"string", ",", 
+           RowBox[{"Pick", "[", 
+            RowBox[{"positions", ",", "#"}], "]"}]}], "]"}], ",", "20"}], 
+        "]"}], "&"}], "/@", 
+      RowBox[{"SatisfiabilityInstances", "[", 
+       RowBox[{
+        RowBox[{"And", "@@", 
+         RowBox[{"(", 
+          RowBox[{
+           RowBox[{"BooleanCountingFunction", "[", 
+            RowBox[{
+             RowBox[{"{", "1", "}"}], ",", 
+             RowBox[{"Length", "@", "positions"}]}], "]"}], "@@@", 
+           RowBox[{"Transpose", "@", 
+            RowBox[{"MapIndexed", "[", 
+             RowBox[{
+              RowBox[{"Function", "[", 
+               RowBox[{
+                RowBox[{"{", 
+                 RowBox[{"list", ",", "index"}], "}"}], ",", 
+                RowBox[{
+                 RowBox[{
+                  RowBox[{"#", "&&", 
+                   RowBox[{"c", "@@", "index"}]}], "&"}], "/@", "list"}]}], 
+               "]"}], ",", 
+              RowBox[{
+               RowBox[{
+                RowBox[{"Table", "[", 
+                 RowBox[{
+                  RowBox[{"#1", "\[LessEqual]", "i", "\[LessEqual]", "#2"}], 
+                  ",", 
+                  RowBox[{"{", 
+                   RowBox[{"i", ",", 
+                    RowBox[{"StringLength", "@", "string"}]}], "}"}]}], "]"}],
+                 "&"}], "@@@", "positions"}]}], "]"}]}]}], ")"}]}], ",", 
+        RowBox[{"Array", "[", 
+         RowBox[{"c", ",", 
+          RowBox[{"Length", "@", "positions"}]}], "]"}], ",", "All"}], 
+       "]"}]}]}]}], "]"}], "//", "TableForm"}]], "Input",
+ CellChangeTimes->{{3.801144305077921*^9, 3.8011443050858984`*^9}, {
+  3.8029250669378138`*^9, 3.802925174352848*^9}, {3.802927571348333*^9, 
+  3.8029275716202908`*^9}},
+ TextAlignment->Center,
+ CellLabel->
+  "In[449]:=",ExpressionUUID->"b08a651a-2e13-4fa5-ac13-5fa3ba294764"],
+
+Cell[BoxData[
+ TagBox[
+  TagBox[GridBox[{
+     {
+      StyleBox[
+       RowBox[{"{", 
+        RowBox[{"\<\"table\"\>", ",", "\<\"apple\"\>", ",", "\<\"char\"\>", 
+         ",", "\<\"it\"\>", ",", "\<\"able\"\>", ",", "\<\"cup\"\>", 
+         ",", "\<\"boar\"\>", ",", "\<\"ding\"\>"}], "}"}],
+       StripOnInput->False,
+       FontSize->20]},
+     {
+      StyleBox[
+       RowBox[{"{", 
+        RowBox[{"\<\"table\"\>", ",", "\<\"apple\"\>", ",", "\<\"char\"\>", 
+         ",", "\<\"it\"\>", ",", "\<\"able\"\>", ",", "\<\"cup\"\>", 
+         ",", "\<\"boarding\"\>"}], "}"}],
+       StripOnInput->False,
+       FontSize->20]},
+     {
+      StyleBox[
+       RowBox[{"{", 
+        RowBox[{"\<\"table\"\>", ",", "\<\"apple\"\>", 
+         ",", "\<\"charitable\"\>", ",", "\<\"cup\"\>", ",", "\<\"boar\"\>", 
+         ",", "\<\"ding\"\>"}], "}"}],
+       StripOnInput->False,
+       FontSize->20]},
+     {
+      StyleBox[
+       RowBox[{"{", 
+        RowBox[{"\<\"table\"\>", ",", "\<\"apple\"\>", 
+         ",", "\<\"charitable\"\>", ",", "\<\"cup\"\>", 
+         ",", "\<\"boarding\"\>"}], "}"}],
+       StripOnInput->False,
+       FontSize->20]}
+    },
+    GridBoxAlignment->{
+     "Columns" -> {{Left}}, "ColumnsIndexed" -> {}, "Rows" -> {{Baseline}}, 
+      "RowsIndexed" -> {}},
+    GridBoxSpacings->{"Columns" -> {
+        Offset[0.27999999999999997`], {
+         Offset[0.5599999999999999]}, 
+        Offset[0.27999999999999997`]}, "ColumnsIndexed" -> {}, "Rows" -> {
+        Offset[0.2], {
+         Offset[0.4]}, 
+        Offset[0.2]}, "RowsIndexed" -> {}}],
+   Column],
+  Function[BoxForm`e$, 
+   TableForm[BoxForm`e$]]]], "Output",
+ CellChangeTimes->{
+  3.801144328734369*^9, 3.80292493746309*^9, {3.8029251101565256`*^9, 
+   3.802925174839094*^9}, 3.80292757228632*^9},
+ TextAlignment->Center,
+ CellLabel->
+  "Out[449]//TableForm=",ExpressionUUID->"e0839d78-a82e-42fd-99da-\
+c60f36848090"]
+}, {2}]],
+
+Cell["\<\
+\:0422\:0430\:043a\:0438\:043c \:043e\:0431\:0440\:0430\:0437\:043e\:043c, \
+\:043d\:0435\:043e\:0431\:0445\:043e\:0434\:0438\:043c\:043e \:0440\:0430\
+\:0437\:0440\:0430\:0431\:043e\:0442\:0430\:0442\:044c \:0430\:043b\:0433\
+\:043e\:0440\:0438\:0442\:043c\:044b, \:043a\:043e\:0442\:043e\:0440\:044b\
+\:0435 \:043f\:043e\:0437\:0432\:043e\:043b\:044f\:0442 \:0432\:043e\:0441\
+\:0441\:0442\:0430\:043d\:043e\:0432\:0438\:0442\:044c \:043f\:0440\:043e\
+\:0431\:0435\:043b\:044b \:0432 \:0442\:0435\:043a\:0441\:0442\:0435.\
+\>", "Text",
+ CellChangeTimes->{{3.802926276732989*^9, 3.802926286945863*^9}, {
+  3.8029263355116577`*^9, 3.8029263557886105`*^9}, {3.8032017387985373`*^9, 
+  3.8032017564034505`*^9}},ExpressionUUID->"cc19a109-3f54-45a6-9be0-\
+45f78b61097d"],
+
+Cell[CellGroupData[{
+
+Cell["1. \:0410\:043b\:0433\:043e\:0440\:0438\:0442\:043c\:044b \:043d\:0430 \
+\:043e\:0441\:043d\:043e\:0432\:0435 \:043a\:043e\:0440\:043f\:0443\:0441\
+\:0430 \:0441\:043b\:043e\:0432", "Section",
+ CellChangeTimes->{{3.7583722506926675`*^9, 3.7583722869103513`*^9}, {
+  3.8011403377482553`*^9, 3.801140342375987*^9}, {3.8029254772852263`*^9, 
+  3.8029255075988817`*^9}, {3.80292554236614*^9, 
+  3.8029255523084373`*^9}},ExpressionUUID->"d16b898c-89cd-4580-8814-\
+d921506f9e5d"],
+
+Cell[TextData[{
+ "\:041f\:043e\:0434 \:043a\:043e\:0440\:043f\:0443\:0441\:043e\:043c \:0441\
+\:043b\:043e\:0432 \:043f\:043e\:0434\:0440\:0430\:0437\:0443\:043c\:0435\
+\:0432\:0430\:0435\:0442\:0441\:044f \:0437\:0430\:0440\:0430\:043d\:0435\
+\:0435 \:043e\:043f\:0440\:0435\:0434\:0435\:043b\:0435\:043d\:043d\:044b\
+\:0439 \:0441\:043b\:043e\:0432\:0430\:0440\:044c \:0438\:0437\:0432\:0435\
+\:0441\:0442\:043d\:044b\:0445 \:0441\:043b\:043e\:0432, \:043a\:043e\:0442\
+\:043e\:0440\:044b\:0435 \:043c\:043e\:0433\:0443\:0442 \:0432\:0441\:0442\
+\:0440\:0435\:0442\:0438\:0442\:044c\:0441\:044f \:0432 \:0442\:0435\:043a\
+\:0441\:0442\:0435. \:0412 \:043f\:0440\:0438\:0432\:0435\:0434\:0435\:043d\
+\:043d\:043e\:043c \:0432\:044b\:0448\:0435 \:043f\:0440\:0438\:043c\:0435\
+\:0440\:0435 \:0442\:0435\:043a\:0441\:0442 \:0431\:044b\:043b \:0440\:0430\
+\:0437\:0434\:0435\:043b\:0435\:043d \:043d\:0430 \:043e\:0441\:043d\:043e\
+\:0432\:0435 \:0432\:0441\:0442\:0440\:043e\:0435\:043d\:043d\:043e\:0433\
+\:043e \:0432 ",
+ StyleBox["Wolfram",
+  IgnoreSpellCheck->True],
+ " Mathematica \:0441\:043b\:043e\:0432\:0430\:0440\:044f (DictionaryLookup)."
+}], "Text",
+ CellChangeTimes->{{3.8029255571285615`*^9, 3.802925745808489*^9}, {
+  3.802926389547739*^9, 
+  3.8029264468137245`*^9}},ExpressionUUID->"ac62bd46-6c16-4384-8b0f-\
+13cb3a99cbf7"],
+
+Cell["\<\
+\:0421\:0443\:0442\:044c \:043f\:0440\:0435\:0434\:0441\:0442\:0430\:0432\
+\:043b\:0435\:043d\:043d\:044b\:0445 \:043d\:0438\:0436\:0435 \:0430\:043b\
+\:0433\:043e\:0440\:0438\:0442\:043c\:043e\:0432 \:0441\:043e\:0441\:0442\
+\:043e\:0438\:0442 \:0432 \:0442\:043e\:043c, \:0447\:0442\:043e\:0431\:044b, \
+\:043f\:0440\:043e\:0445\:043e\:0434\:044f \:043f\:043e\:0441\:043b\:0435\
+\:0434\:043e\:0432\:0430\:0442\:0435\:043b\:044c\:043d\:043e \:043f\:043e \
+\:0442\:0435\:043a\:0441\:0442\:0443, \:043d\:0430\:0439\:0442\:0438 \:043d\
+\:0430\:0438\:043b\:0443\:0447\:0448\:0443\:044e \:043f\:043e\:0441\:043b\
+\:0435\:0434\:043e\:0432\:0430\:0442\:0435\:043b\:044c\:043d\:043e\:0441\:0442\
+\:044c \:0441\:043b\:043e\:0432 \:0432\:043d\:0443\:0442\:0440\:0438 \:0441\
+\:0442\:0440\:043e\:043a\:0438.\
+\>", "Text",
+ CellChangeTimes->{
+  3.802926449181559*^9, {3.803201814019341*^9, 
+   3.8032018147783227`*^9}},ExpressionUUID->"feabc3d9-1537-49f3-b28d-\
+b2bf80d1c940"],
+
+Cell[CellGroupData[{
+
+Cell["1.1. \:0410\:043b\:0433\:043e\:0440\:0438\:0442\:043c \
+\:043c\:0430\:043a\:0441\:0438\:043c\:0430\:043b\:044c\:043d\:043e\:0433\:043e\
+ \:0441\:043e\:043e\:0442\:0432\:0435\:0442\:0441\:0442\:0432\:0438\:044f", \
+"Subsection",
+ CellChangeTimes->{{3.7583727590550957`*^9, 3.758372766307561*^9}, {
+   3.758525330883685*^9, 3.7585253373607235`*^9}, 3.801140439068453*^9, {
+   3.802925781307618*^9, 
+   3.802925796641119*^9}},ExpressionUUID->"0ce33606-fa36-44f0-96b7-\
+2c02f833451b"],
+
+Cell["\<\
+\:0410\:043b\:0433\:043e\:0440\:0438\:0442\:043c \:043c\:0430\:043a\:0441\
+\:0438\:043c\:0430\:043b\:044c\:043d\:043e\:0433\:043e \:0441\:043e\:043e\
+\:0442\:0432\:0435\:0442\:0441\:0442\:0432\:0438\:044f \[Dash] \:044d\:0442\
+\:043e \:0436\:0430\:0434\:043d\:044b\:0439 \:0430\:043b\:0433\:043e\:0440\
+\:0438\:0442\:043c, \:0432 \:043a\:043e\:0442\:043e\:0440\:043e\:043c \:0432 \
+\:0442\:0435\:043a\:0441\:0442\:0435 \:043f\:043e\:0441\:043b\:0435\:0434\
+\:043e\:0432\:0430\:0442\:0435\:043b\:044c\:043d\:043e \:0432\:044b\:0434\
+\:0435\:043b\:044f\:044e\:0442\:0441\:044f \:0441\:043b\:043e\:0432\:0430 \
+\:043d\:0430\:0438\:0431\:043e\:043b\:044c\:0448\:0435\:0439 \:0434\:043b\
+\:0438\:043d\:044b, \:043a\:043e\:0442\:043e\:0440\:044b\:0435 \:0432\:0441\
+\:0442\:0440\:0435\:0442\:0438\:043b\:0438\:0441\:044c \:0432 \:0441\:043b\
+\:043e\:0432\:0430\:0440\:0435. \:0412 \:043a\:0430\:0447\:0435\:0441\:0442\
+\:0432\:0435 \:043f\:0440\:0438\:043c\:0435\:0440\:0430 \:043f\:0440\:0438\
+\:0432\:0435\:0434\:0435\:043c \:0441\:0442\:0440\:043e\:043a\:0443:\
+\>", "Text",
+ CellChangeTimes->{{3.758372371573966*^9, 3.7583723995845165`*^9}, {
+   3.801140443761431*^9, 3.8011404516185265`*^9}, {3.801140760687523*^9, 
+   3.8011408244762497`*^9}, {3.8011409382299995`*^9, 3.801141009449165*^9}, 
+   3.8011410951239357`*^9, {3.8029257602582307`*^9, 3.802925761476672*^9}, {
+   3.8029258095941753`*^9, 
+   3.8029258767270713`*^9}},ExpressionUUID->"d192f331-b214-4cc1-b61e-\
+68817a5453a2"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Row", "[", 
+  RowBox[{"{", 
+   RowBox[{
+    RowBox[{"Text", "[", 
+     RowBox[{"Style", "[", 
+      RowBox[{"\"\<themendinehere  \[Rule]  \>\"", ",", "20"}], "]"}], "]"}], 
+    ",", 
+    RowBox[{"Text", "[", 
+     RowBox[{"Style", "[", 
+      RowBox[{"\"\<the men dine here\>\"", ",", 
+       RowBox[{"Darker", "@", "Green"}], ",", "20"}], "]"}], "]"}]}], "}"}], 
+  "]"}]], "Input",
+ CellChangeTimes->{
+  3.802924412815192*^9, {3.802924775432873*^9, 3.8029248626146183`*^9}, {
+   3.802927589912557*^9, 3.802927593118474*^9}},
+ TextAlignment->Center,
+ CellLabel->
+  "In[450]:=",ExpressionUUID->"70a7c6bb-a910-4754-bd58-459931ab6c58"],
+
+Cell[BoxData[
+ TemplateBox[{InterpretationBox[
+    Cell[
+     BoxData[
+      FormBox[
+       StyleBox["\"themendinehere  \[Rule]  \"", 20, StripOnInput -> False], 
+       TextForm]], "InlineText"], 
+    Text[
+     Style["themendinehere  \[Rule]  ", 20]]],InterpretationBox[
+    Cell[
+     BoxData[
+      FormBox[
+       StyleBox["\"the men dine here\"", 
+        RGBColor[0, 
+         Rational[2, 3], 0], 20, StripOnInput -> False], TextForm]], 
+     "InlineText"], 
+    Text[
+     Style["the men dine here", 
+      RGBColor[0, 
+       Rational[2, 3], 0], 20]]]},
+  "RowDefault"]], "Output",
+ CellChangeTimes->{
+  3.8029244136492386`*^9, {3.8029247759724665`*^9, 3.8029248086640363`*^9}, {
+   3.8029248502094727`*^9, 3.80292486311187*^9}, 3.8029275936194534`*^9},
+ TextAlignment->Center,
+ CellLabel->
+  "Out[450]=",ExpressionUUID->"0dbaea80-b4f3-4a7a-9d2a-8518148382ac"]
+}, {2}]],
+
+Cell["\<\
+\:0414\:0430\:043d\:043d\:0443\:044e \:0441\:0442\:0440\:043e\:043a\:0443 \
+\:0442\:0430\:043a\:0436\:0435 \:043c\:043e\:0436\:043d\:043e \:0440\:0430\
+\:0437\:0431\:0438\:0442\:044c \:043d\:0435\:0441\:043a\:043e\:043b\:044c\
+\:043a\:0438\:043c\:0438 \:0441\:043f\:043e\:0441\:043e\:0431\:0430\:043c\
+\:0438. \:041d\:0430 \:0433\:0440\:0430\:0444\:0435 \:043d\:0438\:0436\:0435 \
+\:043f\:0440\:0438\:0432\:0435\:0434\:0435\:043d\:044b \:0432\:0441\:0435 \
+\:0432\:043e\:0437\:043c\:043e\:0436\:043d\:044b\:0435 \:0432\:0430\:0440\
+\:0438\:0430\:043d\:0442\:044b \:0440\:0430\:0437\:0431\:0438\:0435\:043d\
+\:0438\:044f:\
+\>", "Text",
+ CellChangeTimes->{{3.8029265070619583`*^9, 
+  3.802926538084823*^9}},ExpressionUUID->"8b72cacb-33f5-4adc-9aad-\
+2c16735950bc"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[
+ RowBox[{"Graph", "[", 
+  RowBox[{
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+     ",", 
+     RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+     ",", 
+     RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+     RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+     RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+     RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+     RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+     RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+     RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+     RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+     RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+     RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+     RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+     RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+     RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+    "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+   RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], ",",
+    "\[IndentingNewLine]", 
+   RowBox[{"VertexLabels", "\[Rule]", 
+    RowBox[{"Placed", "[", 
+     RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+   RowBox[{"VertexLabelStyle", "\[Rule]", 
+    RowBox[{"{", 
+     RowBox[{
+      RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+       RowBox[{"Directive", "[", 
+        RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+   RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+   RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+   RowBox[{"EdgeStyle", "\[Rule]", "Black"}]}], "]"}]], "Input",
+ ShowCellBracket->0,
+ CellOpen->0,
+ InitializationCell->1,
+ CellLabel->
+  "In[199]:=",ExpressionUUID->"46d71e75-9e49-4bf6-94ff-831d385ec045"],
+
+Cell[BoxData[
+ GraphicsBox[
+  NamespaceBox["NetworkGraphics",
+   DynamicModuleBox[{Typeset`graph = HoldComplete[
+     Graph[{
+      "themendinehere", "the", "them", "theme", "me", "men", "mend", "end", 
+       "n", "dine", "in", "her", "here", "e"}, {{{1, 2}, {1, 3}, {1, 4}, {2, 
+       5}, {2, 6}, {2, 7}, {3, 8}, {4, 9}, {5, 9}, {6, 10}, {7, 11}, {8, 
+       11}, {9, 10}, {10, 12}, {10, 13}, {11, 14}, {12, 14}, {14, 12}, {14, 
+       13}}, Null}, {EdgeStyle -> {
+         GrayLevel[0]}, GraphLayout -> "LayeredDigraphEmbedding", 
+       VertexLabels -> {
+         Placed["Name", Center]}, 
+       VertexLabelStyle -> {18, "themendinehere" -> Directive[Bold, 20]}, 
+       VertexShapeFunction -> {None}, VertexSize -> {0.6}}]]}, 
+    TagBox[GraphicsGroupBox[{
+       {GrayLevel[0], Opacity[0.7], Arrowheads[Medium], 
+        ArrowBox[{{0., 5.}, {0., 4.}}, 0.3], 
+        ArrowBox[{{0., 5.}, {2., 4.}}, 0.3], 
+        ArrowBox[BezierCurveBox[CompressedData["
+1:eJxTTMoPSmViYGCQAWIQjQpEHNRucey7nbVzv/e7Zg+ts8IOlh4Bqd4iZ/bf
+35d1aV2/sMPOE4WePnzX9+8u3DK3113YQX/S+8ipmx/sv8uWuOrYFyGHdukf
+FQldz/Z71BX8iJwu5JDUcKmxnfvt/l/XH7W76ws5JCbYW7VKf9r/RXhHRP8e
+QYfgvLoVJWzf9psZfcgytBd04Mhaxj3J7df+/Ubd+3S3Czj0HZ1joVj1e3+Q
+jYL/2m4BByf2iPzGzj/7NYOfrJoaJeCgpH9j/aaSv/tdy69ffKYs4KBjK/tr
+i/W//c6Bn9sdz/M7pBiq+3Xc+7e/5dxUpnZvfocT3N9W68T+3++XNk143h4+
+h4gzncKLtv/fP0fi6642JT4HseJHLS/e/t9f9HTjD4daXgdowBw4ewYEeOD8
+9DePvp6XRvB/JU40+lDC7cAI5bfo3mjSvcEFl2fx3/6s3RXBrz6mF/d/Dyec
+/2qy3cvJdgg+WPkpDjh/jYG6lUgCgg+hOBwAJlSvTw==
+         "]], 0.3], ArrowBox[{{0., 4.}, {-1., 3.}}, 0.3], 
+        ArrowBox[{{0., 4.}, {0., 3.}}, 0.3], 
+        ArrowBox[{{0., 4.}, {1., 3.}}, 0.3], 
+        ArrowBox[{{2., 4.}, {2., 3.}}, 0.3], 
+        ArrowBox[{{-2., 3.}, {-1., 2.}}, 0.3], 
+        ArrowBox[{{-1., 3.}, {-1., 2.}}, 0.3], 
+        ArrowBox[BezierCurveBox[CompressedData["
+1:eJxTTMoPSmViYGCQAWIQjQo4HGCskPM3jr6ezw7nb/KQrNhliuCL5xwUyznI
+Bue3WV5cyOCM4P/dANLACufXXVKvvaSO4HPMyzvL380C588UluUyeMIM55sY
+gwCCfwWkvZYJzi+UOQ5EjHC+kCAIIPgbWaM3sEYzwPkLvnjO/+L53x7Gv3cX
+BP7C+bIg4wr/wPkxG0AG/IbzZ80EgZ9wPjh4zH/A+Z8PK6U+ePkNzmcHWb/h
+K4IP9u8XOP9rT+yef5Wf4Xxw8NR+gvPByqd8hPMjEv1KNA58gPMh4IM9AIO9
+YI0=
+         "]], 0.3], ArrowBox[{{1., 3.}, {1., 2.}}, 0.3], 
+        ArrowBox[{{2., 3.}, {1., 2.}}, 0.3], 
+        ArrowBox[{{-1., 2.}, {0., 1.}}, 0.3], 
+        ArrowBox[{{0., 1.}, {0., 0.}}, 0.3], 
+        ArrowBox[{{0., 1.}, {1., 0.}}, 0.3], 
+        ArrowBox[{{1., 2.}, {1., 1.}}, 0.3], 
+        ArrowBox[BezierCurveBox[{{0., 0.}, {0.33555925281688337`, 
+         0.6644407471831391}, {1., 1.}}], 0.3], 
+        ArrowBox[BezierCurveBox[{{1., 1.}, {0.6644407471831176, 
+         0.3355592528168807}, {0., 0.}}], 0.3], 
+        ArrowBox[{{1., 1.}, {1., 0.}}, 0.3]}, 
+       {Hue[0.6, 0.2, 0.8], EdgeForm[{GrayLevel[0], Opacity[0.7]}], {
+         StyleBox[DiskBox[{0., 5.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"themendinehere\"\>",
+           StripOnInput->False,
+           FontSize->20,
+           FontWeight->Bold], {0., 5.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{0., 4.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"the\"\>",
+           StripOnInput->False,
+           FontSize->18], {0., 4.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{2., 4.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"them\"\>",
+           StripOnInput->False,
+           FontSize->18], {2., 4.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{-2., 3.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"theme\"\>",
+           StripOnInput->False,
+           FontSize->18], {-2., 3.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{-1., 3.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"me\"\>",
+           StripOnInput->False,
+           FontSize->18], {-1., 3.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{0., 3.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"men\"\>",
+           StripOnInput->False,
+           FontSize->18], {0., 3.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{1., 3.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"mend\"\>",
+           StripOnInput->False,
+           FontSize->18], {1., 3.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{2., 3.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"end\"\>",
+           StripOnInput->False,
+           FontSize->18], {2., 3.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{-1., 2.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"n\"\>",
+           StripOnInput->False,
+           FontSize->18], {-1., 2.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{0., 1.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"dine\"\>",
+           StripOnInput->False,
+           FontSize->18], {0., 1.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{1., 2.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"in\"\>",
+           StripOnInput->False,
+           FontSize->18], {1., 2.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{0., 0.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"her\"\>",
+           StripOnInput->False,
+           FontSize->18], {0., 0.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{1., 0.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"here\"\>",
+           StripOnInput->False,
+           FontSize->18], {1., 0.},
+          BaseStyle->"Graphics"]}, {
+         StyleBox[DiskBox[{1., 1.}, 0.3],
+          StripOnInput->False,
+          ShowContents->False], InsetBox[
+          StyleBox["\<\"e\"\>",
+           StripOnInput->False,
+           FontSize->18], {1., 1.},
+          BaseStyle->"Graphics"]}}}],
+     MouseAppearanceTag["NetworkGraphics"]],
+    AllowKernelInitialization->False]],
+  DefaultBaseStyle->{
+   "NetworkGraphics", FrontEnd`GraphicsHighlightColor -> Hue[0.8, 1., 0.6]},
+  FormatType->TraditionalForm,
+  FrameTicks->None]], "Output",
+ CellChangeTimes->{3.802926550871396*^9, 3.803876517392702*^9},
+ TextAlignment->Center,
+ CellLabel->
+  "Out[199]=",ExpressionUUID->"821321f5-754c-4c74-a114-35940fef32c1"]
+}, Open  ]],
+
+Cell[TextData[{
+ "\:041d\:0430 \:043f\:0435\:0440\:0432\:043e\:043c \:0448\:0430\:0433\:0435 \
+\:0430\:043b\:0433\:043e\:0440\:0438\:0442\:043c\:0430 \:043c\:0430\:043a\
+\:0441\:0438\:043c\:0430\:043b\:044c\:043d\:043e\:0433\:043e \:0441\:043e\
+\:043e\:0442\:0432\:0435\:0442\:0441\:0442\:0432\:0438\:044f \:0431\:0443\
+\:0434\:0435\:0442 \:0432\:044b\:0431\:0440\:0430\:043d\:0430 \:043f\:043e\
+\:0434\:043f\:043e\:0441\:043b\:0435\:0434\:043e\:0432\:0430\:0442\:0435\:043b\
+\:044c\:043d\:043e\:0441\:0442\:044c \[LeftGuillemet]",
+ StyleBox["theme",
+  IgnoreSpellCheck->True],
+ "\[RightGuillemet], \:043f\:043e\:0441\:043a\:043e\:043b\:044c\:043a\:0443 \
+\:044d\:0442\:043e \:043d\:0430\:0438\:0431\:043e\:043b\:0435\:0435 \:0434\
+\:043b\:0438\:043d\:043d\:043e\:0435 \:0438\:0437\:0432\:0435\:0441\:0442\
+\:043d\:043e\:0435 \:0441\:043b\:043e\:0432\:043e. \:041e\:0441\:0442\:0430\
+\:043d\:0435\:0442\:0441\:044f \:043f\:043e\:0434\:043f\:043e\:0441\:043b\
+\:0435\:0434\:043e\:0432\:0430\:0442\:0435\:043b\:044c\:043d\:043e\:0441\:0442\
+\:044c \[LeftGuillemet]",
+ StyleBox["ndinehere",
+  IgnoreSpellCheck->True],
+ "\[RightGuillemet], \:043a\:043e\:0442\:043e\:0440\:0443\:044e \:043d\:0435\
+\:0432\:043e\:0437\:043c\:043e\:0436\:043d\:043e \:0440\:0430\:0437\:0434\
+\:0435\:043b\:0438\:0442\:044c, \:043f\:043e\:0441\:043a\:043e\:043b\:044c\
+\:043a\:0443 \:0441\:043b\:043e\:0432 \:043d\:0430 \[LeftGuillemet]",
+ StyleBox["nd",
+  IgnoreSpellCheck->True],
+ "\[RightGuillemet] \:043d\:0435 \:043e\:043a\:0430\:0437\:0430\:043b\:043e\
+\:0441\:044c \:0432 \:0441\:043b\:043e\:0432\:0430\:0440\:0435. \:0412 \:0434\
+\:0430\:043d\:043d\:043e\:043c \:0441\:043b\:0443\:0447\:0430\:0435 \:0432\
+\:044b\:0431\:0438\:0440\:0430\:0435\:0442\:0441\:044f \[LeftGuillemet]n\
+\[RightGuillemet], \:0430 \:043d\:0430 \:0441\:043b\:0435\:0434\:0443\:044e\
+\:0449\:0435\:043c \:0448\:0430\:0433\:0435 \:0440\:0430\:0441\:0441\:043c\
+\:0430\:0442\:0440\:0438\:0432\:0430\:0435\:0442\:0441\:044f \[LeftGuillemet]",
+ StyleBox["dinehere",
+  IgnoreSpellCheck->True],
+ "\[RightGuillemet]."
+}], "Text",
+ CellChangeTimes->{{3.8011410370288134`*^9, 3.8011411473548136`*^9}, {
+  3.8029259256829805`*^9, 3.8029260324486856`*^9}, {3.8029265750923004`*^9, 
+  3.8029265907388024`*^9}},ExpressionUUID->"3a8ee423-baf9-4d25-acd4-\
+9614908a2cb4"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"pic1", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}]}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic2", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{
+        "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}]}], 
+       "}"}]}], ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic3", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<n\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{
+        "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}]}], "}"}]}], 
+     ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic4", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<n\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{
+        "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+        RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}]}], "}"}]}], 
+     ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic5", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<n\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<here\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{
+        "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+        RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+       "}"}]}], ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"maximalMatchingExample", "=", 
+   RowBox[{"{", 
+    RowBox[{"pic1", ",", "pic2", ",", "pic3", ",", "pic4", ",", "pic5"}], 
+    "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Manipulate", "[", 
+  RowBox[{
+   RowBox[{
+   "maximalMatchingExample", "\[LeftDoubleBracket]", "k", 
+    "\[RightDoubleBracket]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"k", ",", "1", ",", "\"\<step\>\""}], "}"}], ",", "1", ",", "5",
+      ",", "1"}], "}"}], ",", 
+   RowBox[{"Paneled", "\[Rule]", "False"}], ",", 
+   RowBox[{"ControlPlacement", "\[Rule]", "Center"}]}], "]"}]}], "Input",
+ ShowCellBracket->0,
+ CellOpen->0,
+ InitializationCell->True,
+ CellChangeTimes->{{3.802925009811507*^9, 3.80292501170605*^9}, {
+  3.8029266079457455`*^9, 3.8029266554329615`*^9}},
+ TextAlignment->Center,
+ Background->0,
+ CellLabel->"In[23]:=",ExpressionUUID->"ba1cc809-7719-4544-9cbb-75f7721b5cc1"],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`k$$ = 1, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"untitled\"", Typeset`specs$$ = {{{
+       Hold[$CellContext`k$$], 1, "step"}, 1, 5, 1}}, Typeset`size$$ = {
+    591., {352., 361.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`k$3006$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`k$$ = 1}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`k$$, $CellContext`k$3006$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> 
+      Part[$CellContext`maximalMatchingExample, $CellContext`k$$], 
+      "Specifications" :> {{{$CellContext`k$$, 1, "step"}, 1, 5, 1}}, 
+      "Options" :> {Paneled -> False, ControlPlacement -> Center}, 
+      "DefaultOptions" :> {}],
+     ImageSizeCache->{625., {411., 421.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ InitializationCell->True,
+ CellChangeTimes->{3.802926657872636*^9, 3.803195395876899*^9, 
+  3.8038705944562583`*^9, 3.8038767939389286`*^9, 3.8038770839893255`*^9, 
+  3.8038791800038996`*^9},
+ TextAlignment->Center,
+ CellLabel->"Out[29]=",ExpressionUUID->"6ca606ec-cf28-44c1-b56b-6678d6a2975b"]
+}, Open  ]],
+
+Cell["\<\
+\:041a\:0430\:043a \:0432\:0438\:0434\:043d\:043e \:0438\:0437 \:0434\:0430\
+\:043d\:043d\:043e\:0433\:043e \:043f\:0440\:0438\:043c\:0435\:0440\:0430, \
+\:0430\:043b\:0433\:043e\:0440\:0438\:0442\:043c \:043d\:0435\:0432\:0435\
+\:0440\:043d\:043e \:0432\:044b\:0434\:0435\:043b\:0438\:043b \:043f\:0435\
+\:0440\:0432\:043e\:0435 \:0441\:043b\:043e\:0432\:043e, \:0447\:0442\:043e \
+\:043f\:0440\:0438\:0432\:0435\:043b\:043e \:043a \:043d\:0435\:0432\:0435\
+\:0440\:043d\:043e\:043c\:0443 \:0440\:0435\:0437\:0443\:043b\:044c\:0442\
+\:0430\:0442\:0443. \:0427\:0442\:043e\:0431\:044b \:0438\:0441\:043f\:0440\
+\:0430\:0432\:0438\:0442\:044c \:0434\:0430\:043d\:043d\:0443\:044e \:043e\
+\:0448\:0438\:0431\:043a\:0443, \:043c\:043e\:0436\:043d\:043e \:0440\:0430\
+\:0441\:0441\:043c\:0430\:0442\:0440\:0438\:0432\:0430\:0442\:044c \:043e\
+\:0431\:0440\:0430\:0442\:043d\:044b\:0439 \:0430\:043b\:0433\:043e\:0440\
+\:0438\:0442\:043c.\
+\>", "Text",
+ CellChangeTimes->{{3.8029267722575836`*^9, 
+  3.802926932913455*^9}},ExpressionUUID->"fe4d96cd-7de9-49f0-b80f-\
+773dbcb2b666"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["1.2. \:041e\:0431\:0440\:0430\:0442\:043d\:044b\:0439 \
+\:0430\:043b\:0433\:043e\:0440\:0438\:0442\:043c \:043c\:0430\:043a\:0441\
+\:0438\:043c\:0430\:043b\:044c\:043d\:043e\:0433\:043e \:0441\:043e\:043e\
+\:0442\:0432\:0435\:0442\:0441\:0442\:0432\:0438\:044f", "Subsection",
+ CellChangeTimes->{{3.7583727590550957`*^9, 3.758372766307561*^9}, {
+   3.758525330883685*^9, 3.7585253373607235`*^9}, 3.801140439068453*^9, {
+   3.802925781307618*^9, 3.802925796641119*^9}, {3.8029270807944355`*^9, 
+   3.8029270875540657`*^9}, {3.8029272213252754`*^9, 
+   3.802927222437009*^9}},ExpressionUUID->"1c14bb5e-1726-433b-90e3-\
+96cde3dfae1a"],
+
+Cell["\<\
+\:0412 \:043e\:0442\:043b\:0438\:0447\:0438\:0435 \:043e\:0442 \:043f\:0440\
+\:0435\:0434\:044b\:0434\:0443\:0449\:0435\:0433\:043e \:0430\:043b\:0433\
+\:043e\:0440\:0438\:0442\:043c\:0430 \:043f\:043e\:0438\:0441\:043a \:043e\
+\:043f\:0442\:0438\:043c\:0430\:043b\:044c\:043d\:043e\:0433\:043e \:0440\
+\:0430\:0437\:0431\:0438\:0435\:043d\:0438\:044f \:043d\:0430\:0447\:0438\
+\:043d\:0430\:0435\:0442\:0441\:044f \:0441 \:043a\:043e\:043d\:0446\:0430 \
+\:0441\:0442\:0440\:043e\:043a\:0438. \:0422\:0430\:043a\:0438\:043c \:043e\
+\:0431\:0440\:0430\:0437\:043e\:043c, \:043f\:043e\:0434\:043f\:043e\:0441\
+\:043b\:0435\:0434\:043e\:0432\:0430\:0442\:0435\:043b\:044c\:043d\:043e\:0441\
+\:0442\:044c\:044e \:043d\:0430\:0438\:0431\:043e\:043b\:044c\:0448\:0435\
+\:0439 \:0434\:043b\:0438\:043d\:044b \:043e\:043a\:0430\:0436\:0435\:0442\
+\:0441\:044f \:0441\:043b\:043e\:0432\:043e \[LeftGuillemet]here\
+\[RightGuillemet].\
+\>", "Text",
+ CellChangeTimes->{{3.8029270938299084`*^9, 3.802927179595995*^9}, {
+  3.802927317853709*^9, 
+  3.8029273979322166`*^9}},ExpressionUUID->"7982ab39-47ff-40e6-bbfd-\
+d5015dc06703"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"pic6", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<here\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}]}], "\[IndentingNewLine]", 
+    "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic7", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<here\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], "}"}]}], 
+     ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic8", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<men\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<here\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+        RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}]}], "}"}]}],
+      ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic9", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<men\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<the\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<here\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+        RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+        RowBox[{
+        "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}]}], 
+       "}"}]}], ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"inverseMaximalMatchingExample", "=", 
+   RowBox[{"{", 
+    RowBox[{"pic6", ",", "pic7", ",", "pic8", ",", "pic9"}], "}"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Manipulate", "[", 
+  RowBox[{
+   RowBox[{
+   "inverseMaximalMatchingExample", "\[LeftDoubleBracket]", "k", 
+    "\[RightDoubleBracket]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"k", ",", "1", ",", "\"\<step\>\""}], "}"}], ",", "1", ",", "4",
+      ",", "1"}], "}"}], ",", 
+   RowBox[{"Paneled", "\[Rule]", "False"}], ",", 
+   RowBox[{"ControlPlacement", "\[Rule]", "Center"}]}], "]"}]}], "Input",
+ ShowCellBracket->0,
+ CellOpen->0,
+ InitializationCell->True,
+ CellChangeTimes->{{3.802927418198108*^9, 3.8029274506296654`*^9}, {
+  3.802927495255575*^9, 3.8029275190986567`*^9}},
+ TextAlignment->Center,
+ Background->0,
+ CellLabel->"In[30]:=",ExpressionUUID->"b850ee6c-8e96-40c8-a1b2-4f7e1b6c2f9e"],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`k$$ = 1, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"untitled\"", Typeset`specs$$ = {{{
+       Hold[$CellContext`k$$], 1, "step"}, 1, 4, 1}}, Typeset`size$$ = {
+    591., {352., 361.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`k$3044$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`k$$ = 1}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`k$$, $CellContext`k$3044$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> 
+      Part[$CellContext`inverseMaximalMatchingExample, $CellContext`k$$], 
+      "Specifications" :> {{{$CellContext`k$$, 1, "step"}, 1, 4, 1}}, 
+      "Options" :> {Paneled -> False, ControlPlacement -> Center}, 
+      "DefaultOptions" :> {}],
+     ImageSizeCache->{625., {411., 421.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ InitializationCell->True,
+ CellChangeTimes->{3.8029275246227016`*^9, 3.803195405360687*^9, 
+  3.8038706093045435`*^9, 3.8038768021334176`*^9, 3.803877084736326*^9, 
+  3.80387918024734*^9},
+ TextAlignment->Center,
+ Background->0,
+ CellLabel->"Out[35]=",ExpressionUUID->"470195ce-45a8-4833-908c-d0f39f714517"]
+}, Open  ]]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["1.3. \:0414\:0432\:0443\:043d\:0430\:043f\:0440\:0430\:0432\:043b\:0435\
+\:043d\:043d\:044b\:0439 \:0430\:043b\:0433\:043e\:0440\:0438\:0442\:043c \
+\:043c\:0430\:043a\:0441\:0438\:043c\:0430\:043b\:044c\:043d\:043e\:0433\:043e\
+ \:0441\:043e\:043e\:0442\:0432\:0435\:0442\:0441\:0442\:0432\:0438\:044f", \
+"Subsection",
+ CellChangeTimes->{{3.8029272306317544`*^9, 
+  3.8029272461099854`*^9}},ExpressionUUID->"75ee8443-e037-489d-9d2d-\
+d777e6dbfb07"],
+
+Cell["\<\
+\:0414\:0432\:0443\:043d\:0430\:043f\:0440\:0430\:0432\:043b\:0435\:043d\:043d\
+\:044b\:0439 \:0430\:043b\:0433\:043e\:0440\:0438\:0442\:043c \:044f\:0432\
+\:043b\:044f\:0435\:0442\:0441\:044f \:043a\:043e\:043c\:0431\:0438\:043d\
+\:0430\:0446\:0438\:0435\:0439 \:043f\:0440\:0435\:0434\:044b\:0434\:0443\
+\:0449\:0438\:0445 \:0430\:043b\:0433\:043e\:0440\:0438\:0442\:043c\:043e\
+\:0432. \:041d\:0430 \:043f\:0435\:0440\:0432\:043e\:043c \:0448\:0430\:0433\
+\:0435 \:0434\:0430\:043d\:043d\:043e\:0433\:043e \:0430\:043b\:0433\:043e\
+\:0440\:0438\:0442\:043c\:0430 \:0432\:044b\:043f\:043e\:043b\:043d\:044f\
+\:044e\:0442\:0441\:044f \:043f\:0440\:044f\:043c\:043e\:0439 \:043f\:043e\
+\:0438\:0441\:043a, \:0442.\:0435. \:043f\:0440\:0438\:043c\:0435\:043d\:044f\
+\:0435\:0442\:0441\:044f \:0430\:043b\:0433\:043e\:0440\:0438\:0442\:043c \
+\:043c\:0430\:043a\:0441\:0438\:043c\:0430\:043b\:044c\:043d\:043e\:0433\:043e\
+ \:0441\:043e\:043e\:0442\:0432\:0435\:0442\:0441\:0442\:0432\:0438\:044f \
+\:0438 \:043e\:0431\:0440\:0430\:0442\:043d\:044b\:0439 \:043f\:043e\:0438\
+\:0441\:043a. \:0417\:0430\:0442\:0435\:043c \:0440\:0430\:0441\:0441\:043c\
+\:0430\:0442\:0440\:0438\:0432\:0430\:044e\:0442\:0441\:044f \:0432\:0441\
+\:0435 \:043f\:043e\:043b\:0443\:0447\:0435\:043d\:043d\:044b\:0435 \:0441\
+\:043b\:043e\:0432\:0430 \:0438 \:0432\:044b\:0431\:0438\:0440\:0430\:0435\
+\:0442\:0441\:044f \:043d\:0430\:0438\:043c\:0435\:043d\:0435\:0435 \:0441\
+\:0435\:0433\:043c\:0435\:043d\:0442\:0438\:0440\:043e\:0432\:0430\:043d\:043d\
+\:0430\:044f \:043f\:043e\:0441\:043b\:0435\:0434\:043e\:0432\:0430\:0442\
+\:0435\:043b\:044c\:043d\:043e\:0441\:0442\:044c (\:0441 \:043d\:0430\:0438\
+\:043c\:0435\:043d\:044c\:0448\:0438\:043c \:043a\:043e\:043b\:0438\:0447\
+\:0435\:0441\:0442\:0432\:043e\:043c \:043d\:0435\:0438\:0437\:0432\:0435\
+\:0441\:0442\:043d\:044b\:0445 \:0441\:043b\:043e\:0432).\
+\>", "Text",
+ CellChangeTimes->{{3.8029270938299084`*^9, 3.802927179595995*^9}, {
+  3.8029272510853486`*^9, 3.8029273112922735`*^9}, {3.803201914610283*^9, 
+  3.8032020828494024`*^9}},ExpressionUUID->"63be0973-3350-4fa3-b69d-\
+8e5427e871bf"]
+}, Open  ]],
+
+Cell[CellGroupData[{
+
+Cell["\<\
+1.4. \:0412\:044b\:0434\:0435\:043b\:0435\:043d\:0438\:0435 \
+\:043f\:043e\:0434\:043f\:043e\:0441\:043b\:0435\:0434\:043e\:0432\:0430\:0442\
+\:0435\:043b\:044c\:043d\:043e\:0441\:0442\:0438 \:0441 \:043d\:0430\:0438\
+\:043c\:0435\:043d\:044c\:0448\:0438\:043c \:043a\:043e\:043b\:0438\:0447\
+\:0435\:0441\:0442\:0432\:043e\:043c \:0441\:043b\:043e\:0432\
+\>", "Subsection",
+ CellChangeTimes->{{3.802927840311956*^9, 3.802927869566535*^9}, 
+   3.8029281449495773`*^9},ExpressionUUID->"8f87fab7-39e1-45d7-afb7-\
+72a6fb9a4a24"],
+
+Cell["\<\
+\:0423\:043a\:0430\:0437\:0430\:043d\:043d\:044b\:0439 \:0430\:043b\:0433\
+\:043e\:0440\:0438\:0442\:043c \:0440\:0430\:0441\:0441\:043c\:0430\:0442\
+\:0440\:0438\:0432\:0430\:0435\:0442 \:0432\:0441\:0435 \:0432\:043e\:0437\
+\:043c\:043e\:0436\:043d\:044b\:0435 \:043f\:043e\:0434\:043f\:043e\:0441\
+\:043b\:0435\:0434\:043e\:0432\:0430\:0442\:0435\:043b\:044c\:043d\:043e\:0441\
+\:0442\:0438 \:0438 \:0432\:044b\:0431\:0438\:0440\:0430\:0435\:0442 \:0442\
+\:0443, \:0433\:0434\:0435 \:0441\:043e\:0434\:0435\:0440\:0436\:0438\:0442\
+\:0441\:044f \:043d\:0430\:0438\:043c\:0435\:043d\:044c\:0448\:0435\:0435 \
+\:043a\:043e\:043b\:0438\:0447\:0435\:0441\:0442\:0432\:043e \:0441\:043b\
+\:043e\:0432 \:043d\:0435 \:0438\:0437 \:0441\:043b\:043e\:0432\:0430\:0440\
+\:044f. \:041d\:0438\:0436\:0435 \:043f\:0440\:0438\:0432\:0435\:0434\:0435\
+\:043d \:043f\:0440\:0438\:043c\:0435\:0440 \:0440\:0435\:0430\:043b\:0438\
+\:0437\:0430\:0446\:0438\:0438, \:0433\:0434\:0435 \:043d\:0430 \:043a\:0430\
+\:0436\:0434\:043e\:043c \:0448\:0430\:0433\:0435 \:0438\:0437 \:0440\:0430\
+\:0441\:0441\:043c\:043e\:0442\:0440\:0435\:043d\:0438\:044f \:0443\:0434\
+\:0430\:043b\:044f\:044e\:0442\:0441\:044f \:0442\:0435 \:0440\:0435\:0431\
+\:0440\:0430, \:043f\:043e \:043a\:043e\:0442\:043e\:0440\:044b\:043c \:043d\
+\:0435\:0432\:043e\:0437\:043c\:043e\:0436\:043d\:0430 \:0434\:0430\:043b\
+\:044c\:043d\:0435\:0439\:0448\:0430\:044f \:0441\:0435\:0433\:043c\:0435\
+\:043d\:0442\:0430\:0446\:0438\:044f.\
+\>", "Text",
+ CellChangeTimes->{{3.8029281495556684`*^9, 3.8029282392989798`*^9}, {
+  3.8029296422030725`*^9, 3.802929710308463*^9}, {3.8029297684371157`*^9, 
+  3.802929799185949*^9}},ExpressionUUID->"4585a7fb-afce-46bb-b21e-\
+08f7d392e03f"],
+
+Cell[CellGroupData[{
+
+Cell[BoxData[{
+ RowBox[{
+  RowBox[{"pic10", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}]}], "]"}]}], 
+  ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic11", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", "18"}], "}"}]}], ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", "Black"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{
+        "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+        ",", 
+        RowBox[{
+        "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}]}], 
+       "}"}]}], ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic12", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", "18"}], "}"}]}], 
+     ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+         "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], 
+         "\[Rule]", "LightGray"}], ",", 
+        RowBox[{
+         RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]",
+          "LightGray"}], ",", "Black"}], "}"}]}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+        ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}],
+         ",", 
+        RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}]}], "}"}]}],
+      ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic13", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<me\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<n\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", "18"}], "}"}]}], 
+     ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+         "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], 
+         "\[Rule]", "LightGray"}], ",", 
+        RowBox[{
+         RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]",
+          "LightGray"}], ",", 
+        RowBox[{
+         RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], "\[Rule]", 
+         "LightGray"}], ",", 
+        RowBox[{
+         RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]", 
+         "LightGray"}], ",", 
+        RowBox[{
+         RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "Black"}], "}"}]}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+        ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}],
+         ",", 
+        RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+        RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+        RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+        RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}]}], "}"}]}], 
+     ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic14", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<me\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<n\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<mend\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<them\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<end\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<in\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", "18"}], "}"}]}], 
+     ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", 
+      RowBox[{"{", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+         "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]",
+          "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], "\[Rule]",
+          "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", "Black"}], "}"}]}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+        ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}],
+         ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+        RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}]}], "}"}]}],
+      ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic15", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<me\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<n\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<mend\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<them\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<end\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<in\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", "18"}], "}"}]}], 
+     ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", 
+      RowBox[{"{", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+         "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]",
+          "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], "\[Rule]",
+          "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", "Black"}], "}"}]}], ",", 
+     "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+        ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}],
+         ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+        RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}]}], "}"}]}],
+      ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"pic16", "=", 
+   RowBox[{"Graph", "[", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}], 
+       ",", 
+       RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}],
+        ",", "\[IndentingNewLine]", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+       RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], ",", 
+       RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], ",", 
+       RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], ",", 
+       RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], ",", 
+       RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}], ",", 
+       RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       "\[IndentingNewLine]", 
+       RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], ",", 
+       RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+      "\[IndentingNewLine]", "}"}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphLayout", "\[Rule]", "\"\<LayeredDigraphEmbedding\>\""}], 
+     ",", "\[IndentingNewLine]", 
+     RowBox[{"VertexLabels", "\[Rule]", 
+      RowBox[{"Placed", "[", 
+       RowBox[{"\"\<Name\>\"", ",", "Center"}], "]"}]}], ",", 
+     RowBox[{"VertexLabelStyle", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{
+        RowBox[{"\"\<themendinehere\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"Bold", ",", "20"}], "]"}]}], ",", 
+        RowBox[{"\"\<theme\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<me\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<n\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<mend\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<them\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<end\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<in\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<her\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", 
+        RowBox[{"\"\<e\>\"", "\[Rule]", 
+         RowBox[{"Directive", "[", 
+          RowBox[{"LightGray", ",", "18"}], "]"}]}], ",", "18"}], "}"}]}], 
+     ",", 
+     RowBox[{"VertexShapeFunction", "\[Rule]", "None"}], ",", 
+     RowBox[{"VertexSize", "\[Rule]", "0.6"}], ",", 
+     RowBox[{"EdgeStyle", "\[Rule]", 
+      RowBox[{"{", "\[IndentingNewLine]", 
+       RowBox[{
+        RowBox[{
+         RowBox[{
+         "\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<theme\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<theme\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]",
+          "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<me\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<me\>\"", "\[DirectedEdge]", "\"\<n\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<n\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<them\>\"", "\[DirectedEdge]", "\"\<end\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<mend\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<end\>\"", "\[DirectedEdge]", "\"\<in\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<mend\>\"", "\[DirectedEdge]", "\"\<in\>\""}], "\[Rule]",
+          "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<in\>\"", "\[DirectedEdge]", "\"\<e\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<her\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<e\>\"", "\[DirectedEdge]", "\"\<here\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<her\>\"", "\[DirectedEdge]", "\"\<e\>\""}], "\[Rule]", 
+         "LightGray"}], ",", "\[IndentingNewLine]", 
+        RowBox[{
+         RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<her\>\""}], 
+         "\[Rule]", "LightGray"}], ",", "\[IndentingNewLine]", "Black"}], 
+       "}"}]}], ",", "\[IndentingNewLine]", 
+     RowBox[{"GraphHighlight", "\[Rule]", 
+      RowBox[{"{", 
+       RowBox[{"\"\<theme\>\"", ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<the\>\""}], 
+        ",", 
+        RowBox[{"\"\<themendinehere\>\"", "\[DirectedEdge]", "\"\<them\>\""}],
+         ",", 
+        RowBox[{"\"\<the\>\"", "\[DirectedEdge]", "\"\<men\>\""}], ",", 
+        RowBox[{"\"\<men\>\"", "\[DirectedEdge]", "\"\<dine\>\""}], ",", 
+        RowBox[{"\"\<dine\>\"", "\[DirectedEdge]", "\"\<here\>\""}]}], 
+       "}"}]}], ",", 
+     RowBox[{"GraphHighlightStyle", "\[Rule]", "\"\<Thick\>\""}]}], 
+    "\[IndentingNewLine]", "]"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{
+  RowBox[{"maximumMatchingExample", "=", 
+   RowBox[{"{", 
+    RowBox[{
+    "pic10", ",", "pic11", ",", "pic12", ",", "pic13", ",", "pic14", ",", 
+     "pic15", ",", "pic16"}], "}"}]}], ";"}], "\[IndentingNewLine]", 
+ RowBox[{"Manipulate", "[", 
+  RowBox[{
+   RowBox[{
+   "maximumMatchingExample", "\[LeftDoubleBracket]", "k", 
+    "\[RightDoubleBracket]"}], ",", 
+   RowBox[{"{", 
+    RowBox[{
+     RowBox[{"{", 
+      RowBox[{"k", ",", "1", ",", "\"\<step\>\""}], "}"}], ",", "1", ",", "7",
+      ",", "1"}], "}"}], ",", 
+   RowBox[{"Paneled", "\[Rule]", "False"}], ",", 
+   RowBox[{"ControlPlacement", "\[Rule]", "Center"}]}], "]"}]}], "Input",
+ ShowCellBracket->0,
+ CellOpen->0,
+ InitializationCell->True,
+ CellChangeTimes->{{3.8029294079093037`*^9, 3.8029295776401563`*^9}},
+ Background->0,
+ CellLabel->"In[14]:=",ExpressionUUID->"ee405018-f4ed-4cb5-b420-0fbbe5e9ae02"],
+
+Cell[BoxData[
+ TagBox[
+  StyleBox[
+   DynamicModuleBox[{$CellContext`k$$ = 1, Typeset`show$$ = True, 
+    Typeset`bookmarkList$$ = {}, Typeset`bookmarkMode$$ = "Menu", 
+    Typeset`animator$$, Typeset`animvar$$ = 1, Typeset`name$$ = 
+    "\"untitled\"", Typeset`specs$$ = {{{
+       Hold[$CellContext`k$$], 1, "step"}, 1, 7, 1}}, Typeset`size$$ = {
+    591., {352., 361.}}, Typeset`update$$ = 0, Typeset`initDone$$, 
+    Typeset`skipInitDone$$ = True, $CellContext`k$2379$$ = 0}, 
+    DynamicBox[Manipulate`ManipulateBoxes[
+     1, StandardForm, "Variables" :> {$CellContext`k$$ = 1}, 
+      "ControllerVariables" :> {
+        Hold[$CellContext`k$$, $CellContext`k$2379$$, 0]}, 
+      "OtherVariables" :> {
+       Typeset`show$$, Typeset`bookmarkList$$, Typeset`bookmarkMode$$, 
+        Typeset`animator$$, Typeset`animvar$$, Typeset`name$$, 
+        Typeset`specs$$, Typeset`size$$, Typeset`update$$, Typeset`initDone$$,
+         Typeset`skipInitDone$$}, "Body" :> 
+      Part[$CellContext`maximumMatchingExample, $CellContext`k$$], 
+      "Specifications" :> {{{$CellContext`k$$, 1, "step"}, 1, 7, 1}}, 
+      "Options" :> {Paneled -> False, ControlPlacement -> Center}, 
+      "DefaultOptions" :> {}],
+     ImageSizeCache->{625., {411., 421.}},
+     SingleEvaluation->True],
+    Deinitialization:>None,
+    DynamicModuleValues:>{},
+    SynchronousInitialization->True,
+    UndoTrackedVariables:>{Typeset`show$$, Typeset`bookmarkMode$$},
+    UnsavedVariables:>{Typeset`initDone$$},
+    UntrackedVariables:>{Typeset`size$$}], "Manipulate",
+   Deployed->True,
+   StripOnInput->False],
+  Manipulate`InterpretManipulate[1]]], "Output",
+ CellChangeTimes->{3.802929578220481*^9, 3.8031954130818453`*^9, 
+  3.8038706136509175`*^9, 3.8038776876518655`*^9},
+ TextAlignment->Center,
+ Background->0,
+ CellLabel->"Out[22]=",ExpressionUUID->"bff14b4e-c1a3-4dba-89c9-f5563f9e3a95"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+},
+WindowSize->{1898, 956},
+WindowMargins->{{-11, Automatic}, {Automatic, 0}},
+PrintingCopies->1,
+PrintingStartingPageNumber->1,
+PrintingPageRange->{32000, 32000},
+PageHeaders->{{None, None, None}, {None, None, None}},
+PageFooters->{{None, None, None}, {None, None, None}},
+PageHeaderLines->{False, False},
+PageFooterLines->{False, False},
+PrintingOptions->{"FacingPages"->True,
+"FirstPageFace"->Right,
+"FirstPageFooter"->False,
+"FirstPageHeader"->False,
+"Magnification"->1.,
+"PaperOrientation"->"Portrait",
+"PaperSize"->{595.1999999999999, 841.8},
+"PrintCellBrackets"->False,
+"PrintMultipleHorizontalPages"->False,
+"PrintRegistrationMarks"->False,
+"PrintingMargins"->{{28.346456999999997`, 42.519685499999994`}, \
+{28.346456999999997`, 28.346456999999997`}}},
+Evaluatable->1,
+DefaultNaturalLanguage->"Russian",
+SpellingDictionaries->{"CorrectWords"->{
+ "matching", 
+  "\:0410\:0432\:0442\:043e\:043a\:043e\:0440\:0440\:0435\:043b\:044f\:0446\
+\:0438\:044f", 
+  "\:0430\:0432\:0442\:043e\:043a\:043e\:0440\:0440\:0435\:043b\:044f\:0446\
+\:0438\:0438", 
+  "\:0430\:0432\:0442\:043e\:043a\:043e\:0440\:0440\:0435\:043b\:044f\:0446\
+\:0438\:044e", "\:041f\:0438\:0440\:0441\:043e\:043d\:0430", 
+  "\:041a\:043e\:0440\:0440\:0435\:043b\:043e\:0433\:0440\:0430\:043c\:043c\
+\:0430", "\:043a\:043e\:0440\:0440\:0435\:043b\:043e\:0433\:0440\:0430\:043c\
+\:043c\:043e\:0439", 
+  "\:0430\:0432\:0442\:043e\:043a\:043e\:0440\:0440\:0435\:043b\:044f\:0446\
+\:0438\:044f", 
+  "\:043a\:043e\:0440\:0440\:0435\:043b\:043e\:0433\:0440\:0430\:043c\:043c\
+\:0435", "\:0421\:0442\:044c\:044e\:0434\:0435\:043d\:0442\:0430", 
+  "\:0442\:0440\:0435\:043d\:0434", 
+  "\:0424\:0443\:043b\:043b\:0435\:0440\:0430", 
+  "\:0442\:0440\:0435\:043d\:0434\:0430", "\:0414\:043e\:0443", 
+  "\:043d\:0435\:043f\:0440\:043e\:0433\:043d\:043e\:0437\:0438\:0440\:0443\
+\:0435\:043c\:0430\:044f", "\:0440\:0430\:0437\:043b\:0430\:0434\:043a\:0430",
+   "\:043c\:043e\:0433\:0443\:0442", "\:0440\:044f\:0434\:043e\:0432", 
+  "\:0438\:043d\:0442\:0435\:0440\:043d\:0430\:0446\:0438\:043e\:043d\:0430\
+\:043b\:044c\:043d\:044b\:0445", "Dictionary", "based", "Maximal", "Matching",
+   "\:0432\:0441\:0442\:0440\:0435\:0447\:0430\:0435\:043c\:043e\:0441\:0442\
+\:0438", "the", "men", "dine", "here", 
+  "\:0411\:0438\:0433\:0440\:0430\:043c\:043c\:044b", 
+  "\:0431\:0438\:0433\:0440\:0430\:043c\:043c\:044b", 
+  "\:0431\:0438\:0433\:0440\:0430\:043c\:043c"}},
+Magnification:>1.65 Inherited,
+FrontEndVersion->"11.3 for Microsoft Windows (64-bit) (March 6, 2018)",
+StyleDefinitions->Notebook[{
+   Cell[
+    StyleData[StyleDefinitions -> "Default.nb"]], 
+   Cell[
+    StyleData["Section"], FontFamily -> "Georgia", FontSize -> 28, FontWeight -> 
+    "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}, 
+    FontColor -> RGBColor[0., 0., 0.39215686274509803`]], 
+   Cell[
+    StyleData["Subsection"], FontFamily -> "Georgia", FontSize -> 20, 
+    FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}, 
+    FontColor -> RGBColor[0., 0.5019607843137255, 0.5019607843137255]], 
+   Cell[
+    StyleData["Subsubsection"], FontFamily -> "Georgia", FontSize -> 19, 
+    FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}, 
+    FontColor -> RGBColor[0., 0.38823529411764707`, 0.5764705882352941]], 
+   Cell[
+    StyleData["Text"], TextJustification -> 1., FontFamily -> "Georgia", 
+    FontSize -> 16, FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["DisplayFormulaNumbered"], TextAlignment -> Center, FontFamily -> 
+    "Georgia", FontSize -> 16, FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["DisplayFormula"], TextAlignment -> Center, FontFamily -> 
+    "Georgia", FontSize -> 16, FontWeight -> "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}], 
+   Cell[
+    StyleData["Chapter"], FontFamily -> "Georgia", FontSize -> 34, FontWeight -> 
+    "Plain", FontSlant -> "Plain", 
+    FontVariations -> {"StrikeThrough" -> False, "Underline" -> False}]}, 
+  Visible -> False, FrontEndVersion -> 
+  "11.3 for Microsoft Windows (64-bit) (March 6, 2018)", StyleDefinitions -> 
+  "PrivateStylesheetFormatting.nb"]
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[CellGroupData[{
+Cell[580, 22, 590, 9, 107, "Chapter",ExpressionUUID->"548994e8-5e73-4c88-affa-bfba870ebbb1"],
+Cell[1173, 33, 1186, 19, 90, "Text",ExpressionUUID->"10bc5e39-5449-4406-a029-45e33a38bacd"],
+Cell[2362, 54, 344, 5, 55, "Text",ExpressionUUID->"6068c7fc-8c0c-49ec-943d-b8c57aeffe0d"],
+Cell[CellGroupData[{
+Cell[2731, 63, 356, 9, 49593, "Input",ExpressionUUID->"3135eb5f-bf3f-4d55-bca5-4542cd964281"],
+Cell[3090, 74, 489, 12, 68, "Output",ExpressionUUID->"c4117a3f-4532-4aeb-841c-e8f56a6b778a"]
+}, {2}]],
+Cell[3591, 89, 744, 12, 55, "Text",ExpressionUUID->"5f6666f6-43a7-4514-bb18-22f95bb11a0b"],
+Cell[CellGroupData[{
+Cell[4360, 105, 2504, 65, 283248, "Input",ExpressionUUID->"b08a651a-2e13-4fa5-ac13-5fa3ba294764"],
+Cell[6867, 172, 1899, 55, 198, "Output",ExpressionUUID->"e0839d78-a82e-42fd-99da-c60f36848090"]
+}, {2}]],
+Cell[8778, 230, 776, 12, 55, "Text",ExpressionUUID->"cc19a109-3f54-45a6-9be0-45f78b61097d"],
+Cell[CellGroupData[{
+Cell[9579, 246, 479, 7, 105, "Section",ExpressionUUID->"d16b898c-89cd-4580-8814-d921506f9e5d"],
+Cell[10061, 255, 1339, 22, 90, "Text",ExpressionUUID->"ac62bd46-6c16-4384-8b0f-13cb3a99cbf7"],
+Cell[11403, 279, 975, 16, 90, "Text",ExpressionUUID->"feabc3d9-1537-49f3-b28d-b2bf80d1c940"],
+Cell[CellGroupData[{
+Cell[12403, 299, 486, 8, 84, "Subsection",ExpressionUUID->"0ce33606-fa36-44f0-96b7-2c02f833451b"],
+Cell[12892, 309, 1492, 22, 90, "Text",ExpressionUUID->"d192f331-b214-4cc1-b61e-68817a5453a2"],
+Cell[CellGroupData[{
+Cell[14409, 335, 656, 18, 2458, "Input",ExpressionUUID->"70a7c6bb-a910-4754-bd58-459931ab6c58"],
+Cell[15068, 355, 870, 26, 68, "Output",ExpressionUUID->"0dbaea80-b4f3-4a7a-9d2a-8518148382ac"]
+}, {2}]],
+Cell[15950, 384, 772, 13, 55, "Text",ExpressionUUID->"8b72cacb-33f5-4adc-9aad-2c16735950bc"],
+Cell[CellGroupData[{
+Cell[16747, 401, 2413, 49, 31, "Input",ExpressionUUID->"46d71e75-9e49-4bf6-94ff-831d385ec045",
+ CellOpen->0,
+ InitializationCell->1],
+Cell[19163, 452, 6807, 162, 741, "Output",ExpressionUUID->"821321f5-754c-4c74-a114-35940fef32c1"]
+}, Open  ]],
+Cell[25985, 617, 2311, 39, 125, "Text",ExpressionUUID->"3a8ee423-baf9-4d25-acd4-9614908a2cb4"],
+Cell[CellGroupData[{
+Cell[28321, 660, 16071, 324, 31, "Input",ExpressionUUID->"ba1cc809-7719-4544-9cbb-75f7721b5cc1",
+ CellOpen->0,
+ InitializationCell->True],
+Cell[44395, 986, 1929, 39, 862, "Output",ExpressionUUID->"6ca606ec-cf28-44c1-b56b-6678d6a2975b",
+ InitializationCell->True]
+}, Open  ]],
+Cell[46339, 1028, 1085, 17, 90, "Text",ExpressionUUID->"fe4d96cd-7de9-49f0-b80f-773dbcb2b666"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[47461, 1050, 637, 9, 84, "Subsection",ExpressionUUID->"1c14bb5e-1726-433b-90e3-96cde3dfae1a"],
+Cell[48101, 1061, 1126, 18, 90, "Text",ExpressionUUID->"7982ab39-47ff-40e6-bbfd-d5015dc06703"],
+Cell[CellGroupData[{
+Cell[49252, 1083, 13088, 265, 31, "Input",ExpressionUUID->"b850ee6c-8e96-40c8-a1b2-4f7e1b6c2f9e",
+ CellOpen->0,
+ InitializationCell->True],
+Cell[62343, 1350, 1949, 40, 862, "Output",ExpressionUUID->"470195ce-45a8-4833-908c-d0f39f714517",
+ InitializationCell->True]
+}, Open  ]]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[64341, 1396, 456, 7, 84, "Subsection",ExpressionUUID->"75ee8443-e037-489d-9d2d-d777e6dbfb07"],
+Cell[64800, 1405, 2145, 30, 125, "Text",ExpressionUUID->"63be0973-3350-4fa3-b69d-8e5427e871bf"]
+}, Open  ]],
+Cell[CellGroupData[{
+Cell[66982, 1440, 535, 9, 84, "Subsection",ExpressionUUID->"8f87fab7-39e1-45d7-afb7-72a6fb9a4a24"],
+Cell[67520, 1451, 1740, 25, 125, "Text",ExpressionUUID->"4585a7fb-afce-46bb-b21e-08f7d392e03f"],
+Cell[CellGroupData[{
+Cell[69285, 1480, 32532, 667, 31, "Input",ExpressionUUID->"ee405018-f4ed-4cb5-b420-0fbbe5e9ae02",
+ CellOpen->0,
+ InitializationCell->True],
+Cell[101820, 2149, 1869, 38, 862, "Output",ExpressionUUID->"bff14b4e-c1a3-4dba-89c9-f5563f9e3a95"]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}, Open  ]]
+}
+]
+*)
+
