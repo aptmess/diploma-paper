@@ -12,3 +12,11 @@ pip install -r requirements.txt
 python -m ipykernel install --user --name diploma_paper
 jupyter notebook --no-browser
 ```
+*Install [jampsell](https://github.com/bakwc/JamSpell)*
+
+Thank to [this site](https://zoomadmin.com/HowToInstall/UbuntuPackage/swig3.0):
+
+```bash
+sudo apt-get update -y
+sudo apt-get install -y swig3.0
+```
