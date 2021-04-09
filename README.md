@@ -23,6 +23,7 @@ Cover [instruction](https://zoomadmin.com/HowToInstall/UbuntuPackage/swig3.0):
 ```bash
 sudo apt-get update -y
 sudo apt-get install -y swig3.0
+pip install jamspell
 ```
 
 Author
