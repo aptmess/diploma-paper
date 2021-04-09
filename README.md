@@ -1,19 +1,8 @@
 # Дипломная работа
 
-Тема: "Решение задач порождения текста и исправления ошибок орфографии с помощью нейросетевых языковых моделей"
+**Тема** [![icon][theme]]: 
 
-Автор
-=======
-
-* [![icon][mail]](mailto:improfeo@yandex.ru)
-  [![icon][github]](https://github.com/aptmess) 
-  &nbsp; Aleksandr Shirokov
-  
-<a href="https://feathericons.com/">Icons by Feather</a>
-
-[mail]: resources/mail.svg
-[github]: resources/github.svg
-
+*Решение задач порождения текста и исправления ошибок орфографии с помощью нейросетевых языковых моделей.*
 
 ## Installation
 
@@ -29,9 +18,22 @@ jupyter notebook --no-browser
 ```
 ### [Jampsell](https://github.com/bakwc/JamSpell)
 
-Thank to [this site](https://zoomadmin.com/HowToInstall/UbuntuPackage/swig3.0):
+Cover [instruction](https://zoomadmin.com/HowToInstall/UbuntuPackage/swig3.0):
 
 ```bash
 sudo apt-get update -y
 sudo apt-get install -y swig3.0
 ```
+
+Author
+=======
+
+* [![icon][mail]](mailto:improfeo@yandex.ru)
+  [![icon][github]](https://github.com/aptmess) 
+  &nbsp; Aleksandr Shirokov
+  
+<a href="https://feathericons.com/">Icons by Feather</a>
+
+[mail]: resources/mail.svg
+[github]: resources/github.svg
+[theme]: resources/airplay.svg
