@@ -28,6 +28,7 @@ pip install jamspell
 
 ## Project Structure
 
+```bash
 .
 |-- 01. Report I (19.02.21)
     |-- 01. Языковые модели
@@ -90,7 +91,7 @@ pip install jamspell
 |.gitignore
 |README.md
 requirements.txt
-
+```
 
 Author
 =======
