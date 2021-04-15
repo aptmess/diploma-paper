@@ -1,0 +1,15 @@
+numpy==1.19.2
+pandas
+corus
+nltk
+tqdm
+tensorflow
+keras
+gensim
+ipykernel
+matplotlib
+seaborn
+pyarrow
+gensim
+pymorphy2
+scikit-learn
